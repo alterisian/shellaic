@@ -15,5 +15,5 @@ There's other ways of re-running tests after a change.
 
 rerun.sh
 
-Usage: /home/oceanician/bin/rerun.sh <command> <file-to-watch> <line-number>
+Usage: ~/bin/rerun.sh <command> <file-to-watch> <line-number>
 i.e. ./rerun.sh "bundle exec rspec" ./spec/services/gpt_spec.rb 71
